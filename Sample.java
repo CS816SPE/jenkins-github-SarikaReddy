@@ -1,5 +1,5 @@
 class Sample{
 	public static void main(String[]args){
-		System.out.println("Sample output!")
+		System.out.println("Sample output!");
 	}
 }
